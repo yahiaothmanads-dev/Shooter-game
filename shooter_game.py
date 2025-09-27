@@ -94,8 +94,8 @@ lost = 0
 score = 0
 num_fire = 0
 rel_time = False
-max_lost = 8
-goal = 8
+max_lost = 11
+goal = 18
 
 
 
